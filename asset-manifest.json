@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/quangnm2293/react-game-app/static/css/main.f7bfdc62.chunk.css",
-    "main.js": "/quangnm2293/react-game-app/static/js/main.5c2690ca.chunk.js",
-    "main.js.map": "/quangnm2293/react-game-app/static/js/main.5c2690ca.chunk.js.map",
-    "runtime-main.js": "/quangnm2293/react-game-app/static/js/runtime-main.7cc6907d.js",
-    "runtime-main.js.map": "/quangnm2293/react-game-app/static/js/runtime-main.7cc6907d.js.map",
-    "static/js/2.86da0ce3.chunk.js": "/quangnm2293/react-game-app/static/js/2.86da0ce3.chunk.js",
-    "static/js/2.86da0ce3.chunk.js.map": "/quangnm2293/react-game-app/static/js/2.86da0ce3.chunk.js.map",
-    "static/js/3.44e472cc.chunk.js": "/quangnm2293/react-game-app/static/js/3.44e472cc.chunk.js",
-    "static/js/3.44e472cc.chunk.js.map": "/quangnm2293/react-game-app/static/js/3.44e472cc.chunk.js.map",
-    "index.html": "/quangnm2293/react-game-app/index.html",
-    "static/css/main.f7bfdc62.chunk.css.map": "/quangnm2293/react-game-app/static/css/main.f7bfdc62.chunk.css.map",
-    "static/js/2.86da0ce3.chunk.js.LICENSE.txt": "/quangnm2293/react-game-app/static/js/2.86da0ce3.chunk.js.LICENSE.txt"
+    "main.css": "/react-game-app/static/css/main.f7bfdc62.chunk.css",
+    "main.js": "/react-game-app/static/js/main.5c2690ca.chunk.js",
+    "main.js.map": "/react-game-app/static/js/main.5c2690ca.chunk.js.map",
+    "runtime-main.js": "/react-game-app/static/js/runtime-main.60278131.js",
+    "runtime-main.js.map": "/react-game-app/static/js/runtime-main.60278131.js.map",
+    "static/js/2.86da0ce3.chunk.js": "/react-game-app/static/js/2.86da0ce3.chunk.js",
+    "static/js/2.86da0ce3.chunk.js.map": "/react-game-app/static/js/2.86da0ce3.chunk.js.map",
+    "static/js/3.44e472cc.chunk.js": "/react-game-app/static/js/3.44e472cc.chunk.js",
+    "static/js/3.44e472cc.chunk.js.map": "/react-game-app/static/js/3.44e472cc.chunk.js.map",
+    "index.html": "/react-game-app/index.html",
+    "static/css/main.f7bfdc62.chunk.css.map": "/react-game-app/static/css/main.f7bfdc62.chunk.css.map",
+    "static/js/2.86da0ce3.chunk.js.LICENSE.txt": "/react-game-app/static/js/2.86da0ce3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cc6907d.js",
+    "static/js/runtime-main.60278131.js",
     "static/js/2.86da0ce3.chunk.js",
     "static/css/main.f7bfdc62.chunk.css",
     "static/js/main.5c2690ca.chunk.js"
